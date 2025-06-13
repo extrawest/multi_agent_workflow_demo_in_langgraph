@@ -116,3 +116,5 @@ python scripts/multi_agent_collaboration.py
 - **Flexibility**: Shows different approaches to agent coordination and collaboration
 - **Adaptability**: Provides templates that can be customized for specific use cases
 - **Scalability**: Demonstrates patterns that can scale to complex multi-agent systems
+
+Developed by [extrawest](https://extrawest.com/). Software development company
